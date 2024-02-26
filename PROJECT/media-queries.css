@@ -1,0 +1,8 @@
+@media (max-width: 560px) {
+   .div1 {
+    padding-right: 100%;
+   }
+   input[type = text] {
+    width: auto;
+   }
+}
